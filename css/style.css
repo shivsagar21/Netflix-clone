@@ -12,7 +12,7 @@ body{
     /* padding-top: 1rem; */
     color:white;
     /* background-color: black; */
-    background-image: url("/assests/images/bg.jpg");
+    background-image: url("../assests/images/bg.jpg");
     /* opacity: 0.3; */
     height: 100vh;
     display: flex;
